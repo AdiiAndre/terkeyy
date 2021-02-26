@@ -47,6 +47,5 @@ Hmm.. this menu just contains a little shit about this tool and me
 ### Thanks To
 * [`Karjok`](https://github.com/karjok)
 -----------------
-###Donate pleasee
-(donate.jpg)
+[Donate pleasee](donate.jpg)
 * [`Saweria`](https://saweria.co/taka12)
