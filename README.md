@@ -8,14 +8,14 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/NabilAzdian/terkeyy`
+* `$ git clone https://github.com/AdiiAndre/terkeyy`
 * `$ cd terkeyy`
 * `$ python terkeyy.py`
 
 
 Or you can just copy code bellow and paste to your Termux app and of course, press enter !
 
-```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/NabilAzdian/terkey;cd terkey;python terkeyy.py```
+```pkg update && pkg upgrade;pkg install python git;git clone https://github.com/AdiiAndre/terkeyy;cd terkey;python terkeyy.py```
 
 ## How to use?
 In latest update, i made this tool with userfriendly interface, so you can follow the menu.
